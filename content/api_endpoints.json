@@ -27,8 +27,8 @@
       "note": "Used for text mushaf ayah-by-ayah playback"
     },
     "content_repo": {
-      "baseUrl": "https://raw.githubusercontent.com/mohamedaeldin/sakinah-content/main",
-      "description": "Sakinah content repository (GitHub raw)",
+      "baseUrl": "https://raw.githubusercontent.com/mohamedaeldin/tatmaen-content/main",
+      "description": "Tatmaen content repository (GitHub raw)",
       "classification": "owned_cdn",
       "note": "Primary content delivery source for runtime loading"
     }
