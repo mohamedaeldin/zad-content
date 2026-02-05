@@ -84,9 +84,15 @@
       },
       "streams": [
         {
+          "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+          "type": "hls",
+          "priority": 1,
+          "label": "SBA"
+        },
+        {
           "url": "https://backup.qurango.net/radio/tarateel",
           "type": "audio",
-          "priority": 1,
+          "priority": 2,
           "label": "Qurango"
         }
       ],
@@ -101,6 +107,39 @@
       "isAudioOnly": true,
       "enabled": true,
       "sortOrder": 3
+    },
+    {
+      "id": "nidaa_alislam",
+      "nameKey": "live_nidaa_alislam",
+      "descriptionKey": "live_nidaa_alislam_desc",
+      "countryKey": "country_saudi_arabia",
+      "localizedNames": {
+        "ar": "إذاعة نداء الإسلام",
+        "en": "Nidaa Al-Islam Radio"
+      },
+      "localizedDescriptions": {
+        "ar": "بث مباشر لإذاعة نداء الإسلام من مكة المكرمة",
+        "en": "Nidaa Al-Islam Radio live broadcast from Makkah"
+      },
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+          "type": "hls",
+          "priority": 1,
+          "label": "SBA"
+        }
+      ],
+      "externalURL": "https://radioplus.sba.sa/live/1",
+      "icon": "radio.fill",
+      "iconPlatformMap": {
+        "ios": "radio.fill",
+        "android": "ic_radio",
+        "web": "radio"
+      },
+      "isLive": true,
+      "isAudioOnly": true,
+      "enabled": true,
+      "sortOrder": 4
     },
     {
       "id": "quran_radio_cairo",
@@ -139,7 +178,7 @@
       "isLive": true,
       "isAudioOnly": true,
       "enabled": true,
-      "sortOrder": 4
+      "sortOrder": 5
     }
   ]
 }
