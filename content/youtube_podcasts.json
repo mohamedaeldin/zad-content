@@ -15,7 +15,7 @@
         { "playlistId": "PLhbs8A5De9zSv0thJlmTqPwvgooaKMw4S", "firstVideoId": "zQLwz2XPI1E" },
         { "playlistId": "PLhbs8A5De9zSJFsHcMdpzO98BLmhOfVyd", "firstVideoId": "g0PWpr7Q5b0" }
       ],
-      "enabled": true,
+      "enabled": false,
       "sortOrder": 1
     },
     {

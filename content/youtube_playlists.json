@@ -27,7 +27,7 @@
         { "playlistId": "PL2651C81943CEC70A", "firstVideoId": "VF71aBCleKY" },
         { "playlistId": "PL334BFE277C8B938B", "firstVideoId": "ZQWhXzkEPRo" }
       ],
-      "enabled": true,
+      "enabled": false,
       "sortOrder": 1
     },
     {
