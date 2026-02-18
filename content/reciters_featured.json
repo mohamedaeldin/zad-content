@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.1.0",
+  "contentVersion": "1.2.0",
   "lastUpdated": "2026-02-18T00:00:00Z",
   "source": "mp3quran.net",
   "items": [
@@ -8,6 +8,7 @@
       "id": "minshawi",
       "nameAr": "محمد صديق المنشاوي",
       "nameEn": "Al-Minshawi",
+      "photoPath": "images/reciters/minshawi.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -24,6 +25,7 @@
       "id": "abdulbasit",
       "nameAr": "عبد الباسط عبد الصمد",
       "nameEn": "Abdul Basit",
+      "photoPath": "images/reciters/abdulbasit.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -40,6 +42,7 @@
       "id": "banna",
       "nameAr": "محمود علي البنا",
       "nameEn": "Al-Banna",
+      "photoPath": "images/reciters/banna.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -56,6 +59,7 @@
       "id": "sudais",
       "nameAr": "عبد الرحمن السديس",
       "nameEn": "Al-Sudais",
+      "photoPath": "images/reciters/sudais.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -72,6 +76,7 @@
       "id": "alijaber",
       "nameAr": "علي جابر",
       "nameEn": "Ali Jaber",
+      "photoPath": "images/reciters/alijaber.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -88,6 +93,7 @@
       "id": "alafasy",
       "nameAr": "مشاري العفاسي",
       "nameEn": "Mishary Alafasy",
+      "photoPath": "images/reciters/alafasy.png",
       "isFeatured": true,
       "mpieces": [
         {
@@ -104,6 +110,7 @@
       "id": "hussary",
       "nameAr": "محمود خليل الحصري",
       "nameEn": "Al-Hussary",
+      "photoPath": "images/reciters/hussary.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -120,6 +127,7 @@
       "id": "tablawi",
       "nameAr": "محمد محمود الطبلاوي",
       "nameEn": "Al-Tablawi",
+      "photoPath": "images/reciters/tablawi.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -136,6 +144,7 @@
       "id": "jibreel",
       "nameAr": "محمد جبريل",
       "nameEn": "Muhammad Jibreel",
+      "photoPath": "images/reciters/jibreel.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -152,6 +161,7 @@
       "id": "mustafaismail",
       "nameAr": "مصطفى إسماعيل",
       "nameEn": "Mustafa Ismail",
+      "photoPath": "images/reciters/mustafaismail.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -168,6 +178,7 @@
       "id": "shuraim",
       "nameAr": "سعود الشريم",
       "nameEn": "Saud Al-Shuraim",
+      "photoPath": "images/reciters/shuraim.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -184,6 +195,7 @@
       "id": "ghamdi",
       "nameAr": "سعد الغامدي",
       "nameEn": "Saad Al-Ghamdi",
+      "photoPath": "images/reciters/ghamdi.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -200,6 +212,7 @@
       "id": "muaiqly",
       "nameAr": "ماهر المعيقلي",
       "nameEn": "Maher Al-Muaiqly",
+      "photoPath": "images/reciters/muaiqly.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -216,6 +229,7 @@
       "id": "huthaify",
       "nameAr": "علي الحذيفي",
       "nameEn": "Ali Al-Huthaify",
+      "photoPath": "images/reciters/huthaify.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -232,6 +246,7 @@
       "id": "ayyub",
       "nameAr": "محمد أيوب",
       "nameEn": "Muhammad Ayyub",
+      "photoPath": "images/reciters/ayyub.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -248,6 +263,7 @@
       "id": "dosari",
       "nameAr": "ياسر الدوسري",
       "nameEn": "Yasser Al-Dosari",
+      "photoPath": "images/reciters/dosari.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -264,6 +280,7 @@
       "id": "badrturki",
       "nameAr": "بدر التركي",
       "nameEn": "Badr Al-Turki",
+      "photoPath": "images/reciters/badrturki.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -280,6 +297,7 @@
       "id": "shatri",
       "nameAr": "أبو بكر الشاطري",
       "nameEn": "Abu Bakr Al-Shatri",
+      "photoPath": "images/reciters/shatri.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -296,6 +314,7 @@
       "id": "ajmi",
       "nameAr": "أحمد بن علي العجمي",
       "nameEn": "Ahmad Al-Ajmi",
+      "photoPath": "images/reciters/ajmi.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -312,6 +331,7 @@
       "id": "jaleel",
       "nameAr": "خالد الجليل",
       "nameEn": "Khalid Al-Jaleel",
+      "photoPath": "images/reciters/jaleel.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -328,6 +348,7 @@
       "id": "faresabbad",
       "nameAr": "فارس عباد",
       "nameEn": "Fares Abbad",
+      "photoPath": "images/reciters/faresabbad.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -344,6 +365,7 @@
       "id": "qatami",
       "nameAr": "ناصر القطامي",
       "nameEn": "Nasser Al-Qatami",
+      "photoPath": "images/reciters/qatami.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -360,6 +382,7 @@
       "id": "hanirifai",
       "nameAr": "هاني الرفاعي",
       "nameEn": "Hani Al-Rifai",
+      "photoPath": "images/reciters/hanirifai.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -376,6 +399,7 @@
       "id": "abkar",
       "nameAr": "إدريس أبكر",
       "nameEn": "Idrees Abkar",
+      "photoPath": "images/reciters/abkar.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -392,6 +416,7 @@
       "id": "budair",
       "nameAr": "صلاح البدير",
       "nameEn": "Salah Al-Budair",
+      "photoPath": "images/reciters/budair.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -408,6 +433,7 @@
       "id": "juhani",
       "nameAr": "عبدالله عواد الجهني",
       "nameEn": "Abdullah Al-Juhani",
+      "photoPath": "images/reciters/juhani.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -424,6 +450,7 @@
       "id": "baleelah",
       "nameAr": "بندر بليله",
       "nameEn": "Bandar Baleelah",
+      "photoPath": "images/reciters/baleelah.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -440,6 +467,7 @@
       "id": "luhaidan",
       "nameAr": "محمد اللحيدان",
       "nameEn": "Muhammad Al-Luhaidan",
+      "photoPath": "images/reciters/luhaidan.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -456,6 +484,7 @@
       "id": "sufi",
       "nameAr": "عبدالرشيد صوفي",
       "nameEn": "Abdulrashid Sufi",
+      "photoPath": "images/reciters/sufi.png",
       "isFeatured": false,
       "mpieces": [
         {
@@ -472,6 +501,7 @@
       "id": "kurdi",
       "nameAr": "رعد محمد الكردي",
       "nameEn": "Raad Al-Kurdi",
+      "photoPath": "images/reciters/kurdi.png",
       "isFeatured": false,
       "mpieces": [
         {
