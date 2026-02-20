@@ -233,6 +233,30 @@
       "sortOrder": 19,
       "dependencies": [],
       "checksum": ""
+    },
+    {
+      "id": "haramain_guides",
+      "file": "content/haramain_guides.json",
+      "type": "metadata",
+      "sizeCategory": "standard",
+      "description": "Hajj, Umrah, and Ziyarat step-by-step guides with duas and tips (multilingual)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 20,
+      "dependencies": [],
+      "checksum": ""
+    },
+    {
+      "id": "haramain_checklists",
+      "file": "content/haramain_checklists.json",
+      "type": "metadata",
+      "sizeCategory": "metadata",
+      "description": "Ihram checklist and packing list for Hajj/Umrah (multilingual)",
+      "enabled": true,
+      "lifecycle": "active",
+      "sortOrder": 21,
+      "dependencies": [],
+      "checksum": ""
     }
   ],
 
@@ -251,7 +275,9 @@
     "fasting_types_enabled": true,
     "islamic_events_enabled": true,
     "prayer_ahadith_enabled": true,
-    "wudu_steps_enabled": true
+    "wudu_steps_enabled": true,
+    "haramain_guides_enabled": true,
+    "haramain_checklists_enabled": true
   },
 
   "lifecycle": {

@@ -1,0 +1,680 @@
+{
+  "version": "1.0.0",
+  "guides": [
+    {
+      "id": "umrah",
+      "titleAr": "دليل العمرة",
+      "titleEn": "Umrah Guide",
+      "descriptionAr": "دليل شامل لأداء مناسك العمرة خطوة بخطوة، مع الأدعية والأذكار المأثورة والنصائح العملية",
+      "descriptionEn": "A comprehensive step-by-step guide to performing Umrah, with authentic duas, adhkar, and practical tips",
+      "icon": "figure.walk",
+      "colorHex": "#34C759",
+      "steps": [
+        {
+          "id": "umrah_ihram",
+          "titleAr": "الإحرام",
+          "titleEn": "Ihram",
+          "descriptionAr": "الإحرام هو نية الدخول في النسك، ويكون من الميقات المحدد. يغتسل المسلم ويتطيب في بدنه قبل الإحرام، ثم يلبس ثياب الإحرام (إزار ورداء أبيضين للرجال)، ويصلي ركعتين سنة الإحرام إن تيسر، ثم ينوي العمرة ويبدأ بالتلبية.",
+          "descriptionEn": "Ihram is the intention to enter the state of ritual worship, done at the designated Miqat. The pilgrim performs ghusl (ritual bath), applies fragrance to the body (not the ihram garments), puts on the ihram garments (two white unsewn cloths for men), prays two rak'ahs if possible, then makes the intention for Umrah and begins the Talbiyah.",
+          "icon": "arrow.right.circle.fill",
+          "duaTextAr": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً. لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+          "duaTextEn": "Labbayk Allahumma 'Umrah. Labbayka Allahumma labbayk, labbayka la shareeka laka labbayk, innal-hamda wan-ni'mata laka wal-mulk, la shareeka lak.",
+          "tipsAr": [
+            "اغتسل وتطيّب في بدنك قبل لبس ثياب الإحرام",
+            "المرأة تلبس ملابسها العادية الساترة ولا تلبس النقاب ولا القفازين حال الإحرام",
+            "تجنّب محظورات الإحرام: قص الشعر والأظافر، والتطيب بعد الإحرام، وتغطية الرأس للرجل",
+            "أكثر من التلبية من لحظة الإحرام حتى بدء الطواف",
+            "إذا كنت خائفاً من عائق يمنعك من إتمام النسك فاشترط: اللهم إن حبسني حابس فمحلي حيث حبستني"
+          ],
+          "tipsEn": [
+            "Perform ghusl and apply fragrance to your body before wearing ihram garments",
+            "Women wear their normal modest clothing but should not wear niqab or gloves during ihram",
+            "Avoid ihram prohibitions: cutting hair and nails, applying fragrance after ihram, covering the head for men",
+            "Recite the Talbiyah frequently from the moment of ihram until you begin Tawaf",
+            "If you fear an obstacle may prevent you from completing the rites, make the condition: 'O Allah, if I am prevented, then my place of release is wherever You prevent me'"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "umrah_tawaf",
+          "titleAr": "الطواف",
+          "titleEn": "Tawaf",
+          "descriptionAr": "الطواف سبعة أشواط حول الكعبة المشرفة، يبدأ من الحجر الأسود وينتهي عنده. يجعل الكعبة عن يساره ويطوف من خارج حِجر إسماعيل. يُسن الاضطباع (كشف الكتف الأيمن) والرَّمَل (الإسراع في المشي) في الأشواط الثلاثة الأولى للرجال في طواف القدوم. يستلم الحجر الأسود ويقبّله إن تيسّر، أو يشير إليه ويكبّر. وبعد الطواف يصلي ركعتين خلف مقام إبراهيم.",
+          "descriptionEn": "Tawaf consists of seven circuits around the Ka'bah, starting and ending at the Black Stone. Keep the Ka'bah to your left and walk outside Hijr Ismail. For men, it is Sunnah to perform Idtiba (uncovering the right shoulder) and Raml (walking briskly) during the first three circuits of the arrival Tawaf. Touch and kiss the Black Stone if possible, or point toward it and say 'Allahu Akbar'. After completing the Tawaf, pray two rak'ahs behind Maqam Ibrahim.",
+          "icon": "arrow.trianglehead.counterclockwise.rotate.90",
+          "duaTextAr": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ. رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ (بين الركن اليماني والحجر الأسود)",
+          "duaTextEn": "Bismillahi wallahu Akbar. Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhab an-nar (between the Yemeni Corner and the Black Stone).",
+          "tipsAr": [
+            "تأكد من الطهارة قبل الطواف",
+            "لا يوجد دعاء مخصص لكل شوط — ادعُ بما شئت واقرأ القرآن",
+            "الدعاء بين الركن اليماني والحجر الأسود: ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار",
+            "لا تزاحم عند الحجر الأسود، يكفي الإشارة والتكبير",
+            "اجعل الكعبة دائماً عن يسارك ولا تطف داخل حِجر إسماعيل",
+            "بعد الطواف اشرب من ماء زمزم ثم صلِّ ركعتين خلف المقام"
+          ],
+          "tipsEn": [
+            "Ensure you are in a state of wudu before starting Tawaf",
+            "There is no specific dua for each circuit — supplicate freely and recite Quran",
+            "Between the Yemeni Corner and the Black Stone, recite: Rabbana atina fid-dunya hasanatan...",
+            "Do not push through crowds at the Black Stone; pointing and saying Allahu Akbar is sufficient",
+            "Always keep the Ka'bah to your left and do not walk inside Hijr Ismail",
+            "After Tawaf, drink Zamzam water and pray two rak'ahs behind Maqam Ibrahim"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "umrah_sai",
+          "titleAr": "السعي",
+          "titleEn": "Sa'i",
+          "descriptionAr": "السعي سبعة أشواط بين الصفا والمروة. يبدأ من الصفا وينتهي بالمروة. عند الصفا يقرأ: إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ، ثم يصعد على الصفا ويستقبل الكعبة ويدعو. يُسرع الرجل بين العلَمَين الأخضرين. الذهاب من الصفا إلى المروة شوط، والعودة شوط آخر.",
+          "descriptionEn": "Sa'i consists of seven laps between Safa and Marwah. Begin at Safa and end at Marwah. At Safa, recite: 'Indeed, Safa and Marwah are among the symbols of Allah.' Then ascend Safa, face the Ka'bah, and supplicate. Men should jog between the two green markers. Walking from Safa to Marwah counts as one lap, and returning counts as another.",
+          "icon": "arrow.left.arrow.right",
+          "duaTextAr": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ. أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ. لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ (يُكرَّر ثلاثاً على الصفا والمروة مع الدعاء بينها)",
+          "duaTextEn": "Innas-Safa wal-Marwata min sha'a'irillah. Abda'u bima bada'Allahu bih. La ilaha illallahu wahdahu la shareeka lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadeer. La ilaha illallahu wahdah, anjaza wa'dah, wa nasara 'abdah, wa hazamal-ahzaba wahdah (repeated three times at Safa and Marwah with dua in between).",
+          "tipsAr": [
+            "لا تُشترط الطهارة للسعي لكنها مستحبة",
+            "ادعُ الله بما شئت أثناء السعي",
+            "الإسراع بين العلَمَين الأخضرين خاص بالرجال دون النساء",
+            "تأكد من إتمام سبعة أشواط: تبدأ بالصفا وتنتهي بالمروة",
+            "يجوز الجلوس والاستراحة بين الأشواط إذا تعبت"
+          ],
+          "tipsEn": [
+            "Wudu is not required for Sa'i but is recommended",
+            "Supplicate freely during Sa'i",
+            "Jogging between the green markers is for men only, not women",
+            "Ensure you complete seven laps: starting at Safa and ending at Marwah",
+            "You may sit and rest between laps if you feel tired"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "umrah_halq",
+          "titleAr": "الحلق أو التقصير",
+          "titleEn": "Halq or Taqsir",
+          "descriptionAr": "بعد الانتهاء من السعي يحلق الرجل رأسه بالكامل (وهو الأفضل) أو يقصّر شعره من جميع الجوانب. والمرأة تقصّ من شعرها قدر أُنملة (طرف الإصبع). وبذلك تتم العمرة ويحلّ المعتمر من إحرامه ويباح له كل ما كان محظوراً عليه.",
+          "descriptionEn": "After completing Sa'i, men shave their heads completely (preferred) or trim their hair equally from all sides. Women trim a fingertip's length from their hair. With this, Umrah is complete and the pilgrim exits the state of ihram, and all ihram restrictions are lifted.",
+          "icon": "scissors",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "الحلق أفضل من التقصير للرجال لأن النبي ﷺ دعا للمحلقين ثلاثاً وللمقصرين مرة",
+            "إذا كنت تنوي الحج قريباً فالتقصير أفضل ليبقى شعرٌ تحلقه في الحج",
+            "المرأة تقصّ قدر أُنملة من أطراف شعرها ولا تحلق",
+            "لا تحلق أو تقصّر قبل إتمام السعي",
+            "بعد الحلق أو التقصير أنت حلّ من إحرامك — الحمد لله على إتمام العمرة"
+          ],
+          "tipsEn": [
+            "Shaving is preferable to trimming for men, as the Prophet (PBUH) prayed three times for those who shave and once for those who trim",
+            "If you plan to perform Hajj soon, trimming is better so you have hair left to shave during Hajj",
+            "Women trim a fingertip's length from the ends of their hair and should not shave",
+            "Do not shave or trim before completing Sa'i",
+            "After shaving or trimming, you have exited ihram — praise Allah for completing Umrah"
+          ],
+          "dayNumber": null
+        }
+      ]
+    },
+    {
+      "id": "hajj",
+      "titleAr": "دليل الحج",
+      "titleEn": "Hajj Guide",
+      "descriptionAr": "دليل شامل لأداء مناسك الحج يوماً بيوم، مع الأدعية المأثورة والإرشادات العملية لكل مرحلة من مراحل الحج",
+      "descriptionEn": "A comprehensive day-by-day guide to performing Hajj, with authentic duas and practical instructions for every stage of the pilgrimage",
+      "icon": "mountain.2.fill",
+      "colorHex": "#007AFF",
+      "steps": [
+        {
+          "id": "hajj_ihram",
+          "titleAr": "الإحرام بالحج",
+          "titleEn": "Ihram for Hajj",
+          "descriptionAr": "في اليوم الثامن من ذي الحجة (يوم التروية) يُحرم الحاج بالحج من مكانه في مكة. يغتسل ويتطيّب ويلبس ثياب الإحرام ويُلبّي بالحج. ثم يتوجّه إلى منى قبل الظهر ويصلي بها الظهر والعصر والمغرب والعشاء والفجر، كلّ صلاة في وقتها مع قصر الرباعية.",
+          "descriptionEn": "On the 8th of Dhul Hijjah (Day of Tarwiyah), the pilgrim enters ihram for Hajj from their place in Makkah. Perform ghusl, apply fragrance, wear ihram garments, and make the intention and Talbiyah for Hajj. Then proceed to Mina before Dhuhr and pray Dhuhr, Asr, Maghrib, Isha, and Fajr there, each at its time, shortening the four-rak'ah prayers to two.",
+          "icon": "8.circle.fill",
+          "duaTextAr": "لَبَّيْكَ اللَّهُمَّ حَجًّا. لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+          "duaTextEn": "Labbayk Allahumma Hajjan. Labbayka Allahumma labbayk, labbayka la shareeka laka labbayk, innal-hamda wan-ni'mata laka wal-mulk, la shareeka lak.",
+          "tipsAr": [
+            "أحرم من مكان إقامتك في مكة — لا تحتاج للذهاب إلى الميقات",
+            "أكثر من التلبية والذكر والدعاء طوال فترة الحج",
+            "اصطحب ما تحتاجه من طعام وشراب وأدوية",
+            "حافظ على الصلوات في أوقاتها مع قصر الرباعية في منى",
+            "استرح جيداً في منى استعداداً ليوم عرفة"
+          ],
+          "tipsEn": [
+            "Enter ihram from your accommodation in Makkah — no need to go to the Miqat",
+            "Recite the Talbiyah frequently along with dhikr and dua throughout Hajj",
+            "Bring necessary food, water, and medications with you",
+            "Maintain prayers at their proper times, shortening four-rak'ah prayers in Mina",
+            "Rest well in Mina in preparation for the Day of Arafat"
+          ],
+          "dayNumber": 8
+        },
+        {
+          "id": "hajj_arafat",
+          "titleAr": "الوقوف بعرفة",
+          "titleEn": "Standing at Arafat",
+          "descriptionAr": "يوم عرفة هو ركن الحج الأعظم، وهو اليوم التاسع من ذي الحجة. يتوجّه الحاج من منى إلى عرفة بعد شروق الشمس. يصلي الظهر والعصر جمع تقديم مع القصر بأذان واحد وإقامتين. يقف بعرفة ويُكثر من الدعاء والذكر والتضرّع إلى الله حتى غروب الشمس. وقت الوقوف يمتد من زوال الشمس إلى فجر يوم النحر، ولا بد أن يكون داخل حدود عرفة.",
+          "descriptionEn": "The Day of Arafat is the greatest pillar of Hajj, on the 9th of Dhul Hijjah. Proceed from Mina to Arafat after sunrise. Pray Dhuhr and Asr combined and shortened at Dhuhr time with one adhan and two iqamahs. Stand at Arafat and devote yourself to dua, dhikr, and supplication until sunset. The time of standing extends from after Dhuhr until Fajr of the 10th, and you must be within the boundaries of Arafat.",
+          "icon": "9.circle.fill",
+          "duaTextAr": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. خَيْرُ الدُّعَاءِ دُعَاءُ يَوْمِ عَرَفَةَ",
+          "duaTextEn": "La ilaha illallahu wahdahu la shareeka lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadeer. The best supplication is the supplication on the Day of Arafat.",
+          "tipsAr": [
+            "تأكد أنك داخل حدود عرفة — وادي عُرَنة ليس من عرفة",
+            "يوم عرفة أعظم أيام الحج فاجتهد في الدعاء ولا تضيّع لحظة",
+            "ادعُ لنفسك ولوالديك وأهلك والمسلمين",
+            "استظلّ إن أمكن واشرب الماء بكثرة لتجنب الإجهاد الحراري",
+            "لا تغادر عرفة قبل غروب الشمس اقتداءً بالنبي ﷺ",
+            "صُم يوم عرفة إن لم تكن حاجّاً — أما الحاج فلا يُسنّ له الصوم"
+          ],
+          "tipsEn": [
+            "Ensure you are within the boundaries of Arafat — the Valley of Uranah is not part of Arafat",
+            "The Day of Arafat is the greatest day of Hajj; devote yourself to dua and do not waste a moment",
+            "Supplicate for yourself, your parents, your family, and all Muslims",
+            "Seek shade if possible and drink plenty of water to avoid heat exhaustion",
+            "Do not leave Arafat before sunset, following the Sunnah of the Prophet (PBUH)",
+            "Fasting on the Day of Arafat is recommended for non-pilgrims — pilgrims should not fast"
+          ],
+          "dayNumber": 9
+        },
+        {
+          "id": "hajj_muzdalifah",
+          "titleAr": "المبيت بمزدلفة",
+          "titleEn": "Night at Muzdalifah",
+          "descriptionAr": "بعد غروب شمس يوم عرفة ينفر الحاج إلى مزدلفة بسكينة ووقار. يصلّي المغرب والعشاء جمع تأخير مع القصر عند الوصول. يبيت بمزدلفة ويصلّي الفجر في أول وقتها، ثم يقف عند المشعر الحرام ويدعو الله حتى الإسفار. يجمع حصى الجمار من مزدلفة (سبع حصيات ليوم النحر، أو سبعين لجميع الأيام).",
+          "descriptionEn": "After sunset on the Day of Arafat, proceed to Muzdalifah calmly and with dignity. Pray Maghrib and Isha combined and shortened (Isha shortened to two) upon arrival. Spend the night at Muzdalifah and pray Fajr at its earliest time. Then stand at al-Mash'ar al-Haram and supplicate until just before sunrise. Collect pebbles for the Jamarat (seven for the Day of Sacrifice, or seventy for all days).",
+          "icon": "moon.stars.fill",
+          "duaTextAr": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ. اللَّهُمَّ كَمَا وَقَفْتَنَا فِيهِ وَأَرَيْتَنَا إِيَّاهُ فَوَفِّقْنَا لِذِكْرِكَ كَمَا هَدَيْتَنَا",
+          "duaTextEn": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhab an-nar. O Allah, as You have brought us to stand here and shown us this, grant us success in remembering You as You have guided us.",
+          "tipsAr": [
+            "انفر من عرفة بسكينة ولا تُزاحم",
+            "صلِّ المغرب والعشاء جمعاً وقصراً فور وصولك مزدلفة",
+            "اجمع الحصى بحجم حبة الحمص تقريباً",
+            "يجوز للضعفاء والنساء الانصراف من مزدلفة بعد منتصف الليل",
+            "نَم مبكراً لتستيقظ لصلاة الفجر في أول وقتها",
+            "قف عند المشعر الحرام بعد الفجر وأكثر من الدعاء"
+          ],
+          "tipsEn": [
+            "Depart from Arafat calmly and do not push through crowds",
+            "Pray Maghrib and Isha combined and shortened immediately upon arriving at Muzdalifah",
+            "Collect pebbles roughly the size of chickpeas",
+            "The weak, elderly, and women are permitted to leave Muzdalifah after midnight",
+            "Sleep early to wake up for Fajr prayer at its earliest time",
+            "Stand at al-Mash'ar al-Haram after Fajr and devote yourself to dua"
+          ],
+          "dayNumber": 9
+        },
+        {
+          "id": "hajj_day10",
+          "titleAr": "يوم النحر (العيد)",
+          "titleEn": "Day of Sacrifice (Eid)",
+          "descriptionAr": "اليوم العاشر من ذي الحجة، أعظم أيام السنة عند الله. يتوجّه الحاج إلى منى ويرمي جمرة العقبة الكبرى بسبع حصيات متعاقبات يُكبّر مع كل حصاة. ثم ينحر هديه (للمتمتع والقارن). ثم يحلق أو يقصّر (التحلّل الأول). ثم ينزل إلى مكة لطواف الإفاضة والسعي (التحلّل الثاني). ثم يعود إلى منى للمبيت. السُّنة الترتيب لكن لا حرج في التقديم والتأخير.",
+          "descriptionEn": "The 10th of Dhul Hijjah, the greatest day of the year in the sight of Allah. Proceed to Mina and stone Jamrat al-Aqabah (the large pillar) with seven consecutive pebbles, saying Allahu Akbar with each throw. Then offer the sacrifice (for Tamattu and Qiran pilgrims). Then shave or trim the hair (first release from ihram). Then go to Makkah for Tawaf al-Ifadah and Sa'i (second release from ihram). Then return to Mina to spend the night. The Sunnah is to follow this order, but there is no harm in changing the sequence.",
+          "icon": "10.circle.fill",
+          "duaTextAr": "بِسْمِ اللَّهِ، وَاللَّهُ أَكْبَرُ (مع كل حصاة). اللَّهُمَّ اجْعَلْهُ حَجًّا مَبْرُورًا وَذَنْبًا مَغْفُورًا وَسَعْيًا مَشْكُورًا",
+          "duaTextEn": "Bismillah, Allahu Akbar (with each pebble). O Allah, make it an accepted Hajj, a forgiven sin, and an appreciated effort.",
+          "tipsAr": [
+            "ارمِ جمرة العقبة الكبرى فقط في هذا اليوم (لا ترمِ الصغرى والوسطى)",
+            "وقت الرمي من بعد شروق الشمس — ويجوز بعد منتصف ليلة النحر للضعفاء",
+            "بعد الحلق أو التقصير يحلّ لك كل شيء إلا النساء (التحلل الأول)",
+            "بعد طواف الإفاضة يحلّ لك كل شيء (التحلل الثاني)",
+            "طواف الإفاضة ركن من أركان الحج لا يسقط",
+            "يجوز تأخير طواف الإفاضة والسعي إلى أيام التشريق أو حتى آخرها"
+          ],
+          "tipsEn": [
+            "Stone only Jamrat al-Aqabah (the large pillar) on this day — not the small or middle ones",
+            "Stoning time begins after sunrise — the weak may stone after midnight of the 10th",
+            "After shaving or trimming, everything is permitted except marital relations (first release)",
+            "After Tawaf al-Ifadah, all restrictions are lifted (second release)",
+            "Tawaf al-Ifadah is a pillar of Hajj and cannot be omitted",
+            "Tawaf al-Ifadah and Sa'i may be delayed to the days of Tashreeq"
+          ],
+          "dayNumber": 10
+        },
+        {
+          "id": "hajj_tashreeq",
+          "titleAr": "أيام التشريق (رمي الجمرات)",
+          "titleEn": "Days of Tashreeq (Stoning the Jamarat)",
+          "descriptionAr": "أيام التشريق هي الحادي عشر والثاني عشر والثالث عشر من ذي الحجة. يبيت الحاج في منى ويرمي الجمرات الثلاث كل يوم بعد الزوال: يبدأ بالجمرة الصغرى (سبع حصيات ثم يدعو)، ثم الوسطى (سبع حصيات ثم يدعو)، ثم الكبرى (سبع حصيات دون دعاء بعدها). يجوز التعجّل بالنفر في اليوم الثاني عشر قبل غروب الشمس لمن أراد.",
+          "descriptionEn": "The Days of Tashreeq are the 11th, 12th, and 13th of Dhul Hijjah. The pilgrim stays in Mina and stones all three Jamarat each day after Dhuhr: start with the small Jamrah (seven pebbles, then make dua), then the middle Jamrah (seven pebbles, then make dua), then the large Jamrah (seven pebbles, no dua after). Pilgrims may leave early on the 12th before sunset if they wish (hastening departure).",
+          "icon": "arrow.3.trianglepath",
+          "duaTextAr": "اللَّهُ أَكْبَرُ (مع كل حصاة). اللَّهُمَّ اجْعَلْهُ حَجًّا مَبْرُورًا وَذَنْبًا مَغْفُورًا. لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (بعد الجمرة الصغرى والوسطى)",
+          "duaTextEn": "Allahu Akbar (with each pebble). O Allah, make it an accepted Hajj and a forgiven sin. La ilaha illallahu wahdahu la shareeka lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadeer (after the small and middle Jamrah).",
+          "tipsAr": [
+            "لا ترمِ قبل الزوال (وقت الظهر) في أيام التشريق",
+            "ابدأ بالجمرة الصغرى ثم الوسطى ثم الكبرى بالترتيب",
+            "قف بعد الصغرى والوسطى مستقبل القبلة وادعُ طويلاً",
+            "لا تقف للدعاء بعد جمرة العقبة الكبرى",
+            "إذا أردت التعجّل فانفر قبل غروب شمس اليوم الثاني عشر",
+            "أيام التشريق أيام أكل وشرب وذكر لله",
+            "كبّر في أدبار الصلوات: الله أكبر الله أكبر لا إله إلا الله، الله أكبر الله أكبر ولله الحمد"
+          ],
+          "tipsEn": [
+            "Do not stone before Dhuhr (noon) on the Days of Tashreeq",
+            "Stone in order: small Jamrah first, then middle, then large",
+            "Stand facing the Qiblah and make extended dua after the small and middle Jamarat",
+            "Do not stop to make dua after stoning the large Jamrah",
+            "If you wish to hasten departure, leave before sunset on the 12th",
+            "The Days of Tashreeq are days of eating, drinking, and remembering Allah",
+            "Make takbeer after each prayer: Allahu Akbar Allahu Akbar la ilaha illallah, Allahu Akbar Allahu Akbar wa lillahil-hamd"
+          ],
+          "dayNumber": 11
+        },
+        {
+          "id": "hajj_wada",
+          "titleAr": "طواف الوداع",
+          "titleEn": "Tawaf al-Wada (Farewell Tawaf)",
+          "descriptionAr": "طواف الوداع هو آخر عمل يقوم به الحاج قبل مغادرة مكة المكرمة. يطوف سبعة أشواط حول الكعبة كطواف عادي دون اضطباع أو رَمَل، ثم يصلي ركعتين خلف المقام. يسقط طواف الوداع عن الحائض والنفساء. يجب أن يكون طواف الوداع آخر عهده بالبيت فلا يمكث بعده إلا لحاجة عارضة.",
+          "descriptionEn": "Tawaf al-Wada is the last act the pilgrim performs before leaving Makkah. Perform seven circuits around the Ka'bah as a regular Tawaf without Idtiba or Raml, then pray two rak'ahs behind Maqam Ibrahim. Tawaf al-Wada is waived for menstruating and postnatal women. It must be the last thing the pilgrim does in Makkah — do not stay afterwards except for a brief unavoidable need.",
+          "icon": "hand.wave.fill",
+          "duaTextAr": "اللَّهُمَّ إِنَّ هَذَا بَيْتُكَ، وَأَنَا عَبْدُكَ وَابْنُ عَبْدِكَ وَابْنُ أَمَتِكَ، حَمَلْتَنِي عَلَى مَا سَخَّرْتَ لِي مِنْ خَلْقِكَ حَتَّى سَيَّرْتَنِي فِي بِلَادِكَ وَبَلَّغْتَنِي بِنِعْمَتِكَ حَتَّى أَعَنْتَنِي عَلَى قَضَاءِ مَنَاسِكِكَ، فَإِنْ كُنْتَ رَضِيتَ عَنِّي فَازْدَدْ عَنِّي رِضَا، وَإِلَّا فَمِنَ الْآنَ قَبْلَ أَنْ تَنْأَى عَنْ بَيْتِكَ دَارِي، هَذَا أَوَانُ انْصِرَافِي إِنْ أَذِنْتَ لِي، غَيْرَ مُسْتَبْدِلٍ بِكَ وَلَا بِبَيْتِكَ وَلَا رَاغِبٍ عَنْكَ وَلَا عَنْ بَيْتِكَ. اللَّهُمَّ فَأَصْحِبْنِي الْعَافِيَةَ فِي بَدَنِي وَالْعِصْمَةَ فِي دِينِي وَأَحْسِنْ مُنْقَلَبِي وَارْزُقْنِي طَاعَتَكَ مَا أَبْقَيْتَنِي",
+          "duaTextEn": "O Allah, this is Your House, and I am Your servant, the son of Your servant, the son of Your maidservant. You carried me on what You made subservient to me from Your creation until You brought me through Your lands, and by Your grace You helped me fulfill Your rites. If You are pleased with me, then increase Your pleasure, and if not, then from now before my home becomes distant from Your House. This is the time of my departure if You permit me, not replacing You or Your House, nor turning away from You or Your House. O Allah, grant me health in my body, protection in my religion, a good return, and grant me Your obedience as long as You keep me alive.",
+          "tipsAr": [
+            "طواف الوداع واجب على كل حاج عند مغادرة مكة",
+            "يسقط عن المرأة الحائض والنفساء",
+            "اجعله آخر عهدك بمكة — لا تتسوّق بعده إلا للضرورة",
+            "لا اضطباع ولا رَمَل في طواف الوداع",
+            "ادعُ الله أن يرزقك العودة إلى بيته الحرام"
+          ],
+          "tipsEn": [
+            "Tawaf al-Wada is obligatory for every pilgrim upon leaving Makkah",
+            "It is waived for menstruating and postnatal women",
+            "Make it your last act in Makkah — do not shop afterwards except if unavoidable",
+            "No Idtiba or Raml in the Farewell Tawaf",
+            "Supplicate to Allah to grant you a return to His Sacred House"
+          ],
+          "dayNumber": 13
+        }
+      ]
+    },
+    {
+      "id": "ziyarat_makkah",
+      "titleAr": "زيارات مكة المكرمة",
+      "titleEn": "Ziyarat in Makkah",
+      "descriptionAr": "أبرز الأماكن التاريخية والإسلامية التي يمكن زيارتها في مكة المكرمة ومحيطها",
+      "descriptionEn": "Notable historical and Islamic sites to visit in and around Makkah",
+      "icon": "building.columns.fill",
+      "colorHex": "#FF9500",
+      "steps": [
+        {
+          "id": "makkah_hira",
+          "titleAr": "جبل النور (غار حراء)",
+          "titleEn": "Jabal al-Noor (Cave of Hira)",
+          "descriptionAr": "يقع جبل النور شمال شرق المسجد الحرام على بُعد نحو 4 كم. في قمته غار حراء الذي كان النبي ﷺ يتعبّد فيه قبل البعثة، وفيه نزل عليه الوحي لأول مرة بسورة العلق. يبلغ ارتفاع الجبل نحو 634 متراً والصعود يستغرق ساعة إلى ساعة ونصف. الغار يتّسع لشخص أو شخصين فقط.",
+          "descriptionEn": "Jabal al-Noor is located about 4 km northeast of the Grand Mosque. At its peak is the Cave of Hira, where the Prophet (PBUH) used to worship in seclusion before his prophethood, and where the first revelation of Surah Al-Alaq descended. The mountain stands approximately 634 meters high and the ascent takes about 1 to 1.5 hours. The cave is small, accommodating only one or two people.",
+          "icon": "mountain.2.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "الصعود شاق ويحتاج لياقة بدنية — تجنّب الصعود في الحر الشديد",
+            "اصطحب ماءً كافياً واحذر من الانزلاق",
+            "أفضل وقت للصعود هو الفجر أو بعد العصر",
+            "لا تُشرع صلاة مخصوصة في الغار أو عنده",
+            "البس حذاءً مريحاً ومناسباً للتسلّق",
+            "لا يُنصح بالصعود لكبار السن أو من يعانون من مشاكل صحية"
+          ],
+          "tipsEn": [
+            "The climb is strenuous and requires physical fitness — avoid climbing in extreme heat",
+            "Bring sufficient water and be careful of slippery surfaces",
+            "The best time to climb is at Fajr or after Asr",
+            "There is no specific prayer prescribed at or near the cave",
+            "Wear comfortable shoes suitable for climbing",
+            "Not recommended for the elderly or those with health conditions"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_rahma",
+          "titleAr": "جبل الرحمة (عرفة)",
+          "titleEn": "Jabal al-Rahmah (Arafat)",
+          "descriptionAr": "جبل الرحمة هو التل الصغير الواقع في سهل عرفة على بُعد نحو 20 كم شرق المسجد الحرام. يُعرف أيضاً بجبل عرفات، ويُقال إنه المكان الذي التقى فيه آدم وحواء بعد هبوطهما من الجنة. وقف عليه النبي ﷺ في حجة الوداع وألقى خطبته الشهيرة. عليه عمود تذكاري مميّز.",
+          "descriptionEn": "Jabal al-Rahmah is the small hill located in the plain of Arafat, about 20 km east of the Grand Mosque. Also known as the Mount of Arafat, it is said to be where Adam and Hawwa (Eve) reunited after descending from Paradise. The Prophet (PBUH) stood here during his Farewell Pilgrimage and delivered his famous sermon. A distinctive memorial pillar stands at its peak.",
+          "icon": "sun.max.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "يمكن زيارته في غير موسم الحج دون زحام",
+            "ليس من السنة تخصيص جبل الرحمة بصعود أو صلاة — عرفة كلها موقف",
+            "أحضر ماءً ومظلة للوقاية من الشمس",
+            "المكان مفتوح ولا يوجد ظل كافٍ",
+            "يمكن الوصول بسيارة أو حافلة من مكة"
+          ],
+          "tipsEn": [
+            "Can be visited outside Hajj season without crowds",
+            "There is no specific Sunnah of climbing it or praying there — all of Arafat is a standing place",
+            "Bring water and an umbrella for sun protection",
+            "The area is open with little shade",
+            "Accessible by car or bus from Makkah"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_thawr",
+          "titleAr": "غار ثور",
+          "titleEn": "Cave of Thawr",
+          "descriptionAr": "يقع غار ثور في جبل ثور جنوب مكة المكرمة على بُعد نحو 4 كم من المسجد الحرام. اختبأ فيه النبي ﷺ وأبو بكر الصديق رضي الله عنه ثلاث ليالٍ أثناء الهجرة إلى المدينة، وفيه نزلت آية: {إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا}. يبلغ ارتفاع الجبل نحو 760 متراً وصعوده أصعب من جبل النور.",
+          "descriptionEn": "The Cave of Thawr is located in Mount Thawr, about 4 km south of the Grand Mosque. The Prophet (PBUH) and Abu Bakr al-Siddiq (RA) hid here for three nights during the Hijrah to Madinah, and the verse was revealed: 'He said to his companion, Do not grieve; indeed Allah is with us.' The mountain stands approximately 760 meters high and is more challenging to climb than Jabal al-Noor.",
+          "icon": "mountain.2.circle.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "الصعود شاقّ جداً ويستغرق ساعتين تقريباً",
+            "لا يُنصح به لكبار السن أو ذوي المشاكل الصحية",
+            "اصطحب ماءً كافياً وطعاماً خفيفاً",
+            "لا توجد عبادة مخصوصة مشروعة في الغار",
+            "أفضل وقت للزيارة هو الشتاء أو في الصباح الباكر"
+          ],
+          "tipsEn": [
+            "The climb is very strenuous and takes approximately 2 hours",
+            "Not recommended for the elderly or those with health issues",
+            "Bring sufficient water and light snacks",
+            "There is no specific prescribed worship at the cave",
+            "Best time to visit is in winter or early morning"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_mina",
+          "titleAr": "منى",
+          "titleEn": "Mina",
+          "descriptionAr": "تقع منى بين مكة ومزدلفة على بُعد نحو 7 كم من المسجد الحرام. تُعرف بمدينة الخيام وهي أكبر مدينة خيام في العالم. فيها الجمرات الثلاث (الصغرى والوسطى والكبرى) وفيها مسجد الخَيف الذي صلّى فيه النبي ﷺ. يمكث فيها الحجاج في أيام التشريق للمبيت ورمي الجمرات.",
+          "descriptionEn": "Mina is located between Makkah and Muzdalifah, about 7 km from the Grand Mosque. Known as the City of Tents, it is the largest tent city in the world. It contains the three Jamarat pillars (small, middle, and large) and Masjid al-Khayf where the Prophet (PBUH) prayed. Pilgrims stay here during the Days of Tashreeq for overnight stay and stoning of the Jamarat.",
+          "icon": "tent.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "يمكن زيارة الجمرات ومسجد الخيف في غير موسم الحج",
+            "المنطقة تتحول بالكامل في موسم الحج إلى مخيمات",
+            "مسجد الخيف من المساجد التي صلّى فيها النبي ﷺ",
+            "يُستحب الصلاة في مسجد الخيف إن تيسّر"
+          ],
+          "tipsEn": [
+            "The Jamarat and Masjid al-Khayf can be visited outside Hajj season",
+            "The area transforms entirely into camps during Hajj season",
+            "Masjid al-Khayf is one of the mosques where the Prophet (PBUH) prayed",
+            "It is recommended to pray at Masjid al-Khayf if possible"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_muzdalifah",
+          "titleAr": "مزدلفة (المشعر الحرام)",
+          "titleEn": "Muzdalifah (al-Mash'ar al-Haram)",
+          "descriptionAr": "تقع مزدلفة بين عرفة ومنى، وتُسمّى أيضاً المشعر الحرام وجَمْعاً. فيها مسجد المشعر الحرام. يبيت فيها الحجاج ليلة العاشر من ذي الحجة بعد الإفاضة من عرفة. المنطقة سهل مفتوح محاط بالجبال.",
+          "descriptionEn": "Muzdalifah is located between Arafat and Mina, also called al-Mash'ar al-Haram and Jam'. It contains the Mosque of al-Mash'ar al-Haram. Pilgrims spend the night of the 10th of Dhul Hijjah here after departing from Arafat. The area is an open plain surrounded by mountains.",
+          "icon": "star.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "يمكن زيارة مسجد المشعر الحرام في غير موسم الحج",
+            "في غير الموسم المنطقة شبه خالية",
+            "ذُكرت في القرآن: {فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ}"
+          ],
+          "tipsEn": [
+            "The Mosque of al-Mash'ar al-Haram can be visited outside Hajj season",
+            "The area is nearly empty outside Hajj season",
+            "Mentioned in the Quran: 'When you depart from Arafat, remember Allah at al-Mash'ar al-Haram'"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_abu_qubais",
+          "titleAr": "جبل أبي قبيس",
+          "titleEn": "Jabal Abu Qubais",
+          "descriptionAr": "يقع جبل أبي قبيس شرق المسجد الحرام ويُطلّ عليه مباشرة. يُعدّ من أقرب الجبال للكعبة وكان يُسمّى الأمين لأنه حفظ الحجر الأسود أثناء الطوفان حسب بعض الروايات. وقف عليه النبي ﷺ عند انشقاق القمر. حالياً أُقيم فوقه قصر الملك وتوسعات الحرم، ولا يمكن صعوده.",
+          "descriptionEn": "Jabal Abu Qubais is located east of the Grand Mosque, overlooking it directly. It is one of the closest mountains to the Ka'bah and was called 'al-Amin' (the Trustworthy) because it reportedly preserved the Black Stone during the Great Flood. The Prophet (PBUH) stood upon it at the splitting of the moon. Today, the Royal Palace and Haram expansions have been built over it, and it cannot be climbed.",
+          "icon": "building.2.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "لا يمكن صعود الجبل حالياً بسبب البناء فوقه",
+            "يمكن رؤية موقعه من ساحات الحرم الشريف",
+            "له أهمية تاريخية كبيرة في السيرة النبوية"
+          ],
+          "tipsEn": [
+            "The mountain cannot be climbed currently due to construction over it",
+            "Its location can be seen from the Grand Mosque courtyards",
+            "It holds great historical significance in the Prophet's biography"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "makkah_mualla",
+          "titleAr": "مقبرة المعلاة",
+          "titleEn": "Al-Mualla Cemetery",
+          "descriptionAr": "مقبرة المعلاة هي أشهر مقابر مكة المكرمة وتقع في الجهة الشمالية بالقرب من المسجد الحرام. دُفن فيها عدد كبير من الصحابة وآل البيت وأعلام الإسلام، منهم السيدة خديجة بنت خويلد رضي الله عنها (أم المؤمنين وأول من آمن بالنبي ﷺ)، وعبد المطلب جد النبي ﷺ، وأبو طالب عمه، والقاسم ابن النبي ﷺ.",
+          "descriptionEn": "Al-Mualla Cemetery is the most famous cemetery in Makkah, located to the north near the Grand Mosque. Many Companions, members of the Prophet's household, and notable figures in Islam are buried here, including Lady Khadijah bint Khuwaylid (RA), the Mother of the Believers and the first to believe in the Prophet (PBUH), Abdul-Muttalib, the Prophet's grandfather, Abu Talib his uncle, and al-Qasim, the Prophet's son.",
+          "icon": "leaf.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "يُستحب زيارة المقابر والدعاء لأهلها",
+            "ادعُ عند الزيارة: السلام عليكم أهل الديار من المؤمنين والمسلمين، وإنا إن شاء الله بكم لاحقون، نسأل الله لنا ولكم العافية",
+            "لا تتمسّح بالقبور ولا تدعُ أصحابها — ادعُ الله لهم",
+            "الزيارة لا تحتاج وقتاً طويلاً",
+            "المقبرة قريبة من الحرم ويمكن الذهاب إليها مشياً"
+          ],
+          "tipsEn": [
+            "It is recommended to visit cemeteries and make dua for the deceased",
+            "Recite upon visiting: 'Peace be upon you, O people of these dwellings, believers and Muslims. We shall, God willing, join you. We ask Allah for wellbeing for us and you.'",
+            "Do not touch or wipe the graves, and do not supplicate to the deceased — supplicate to Allah for them",
+            "The visit does not require much time",
+            "The cemetery is near the Haram and can be reached on foot"
+          ],
+          "dayNumber": null
+        }
+      ]
+    },
+    {
+      "id": "ziyarat_madinah",
+      "titleAr": "زيارات المدينة المنورة",
+      "titleEn": "Ziyarat in Madinah",
+      "descriptionAr": "أبرز الأماكن التاريخية والإسلامية التي يمكن زيارتها في المدينة المنورة ومحيطها",
+      "descriptionEn": "Notable historical and Islamic sites to visit in and around Madinah",
+      "icon": "star.fill",
+      "colorHex": "#AF52DE",
+      "steps": [
+        {
+          "id": "madinah_nabawi",
+          "titleAr": "المسجد النبوي الشريف",
+          "titleEn": "Masjid al-Nabawi (The Prophet's Mosque)",
+          "descriptionAr": "المسجد النبوي الشريف ثاني أقدس مسجد في الإسلام، بناه النبي ﷺ عند وصوله إلى المدينة. الصلاة فيه بألف صلاة فيما سواه إلا المسجد الحرام. يضمّ القبة الخضراء التي تحتها قبر النبي ﷺ وقبرا أبي بكر وعمر رضي الله عنهما. المسجد من أكبر مساجد العالم ويتّسع لأكثر من مليون مصلٍّ.",
+          "descriptionEn": "The Prophet's Mosque is the second holiest mosque in Islam, built by the Prophet (PBUH) upon his arrival in Madinah. A prayer in it is equal to a thousand prayers elsewhere, except for the Grand Mosque in Makkah. It houses the Green Dome, beneath which lies the grave of the Prophet (PBUH) and the graves of Abu Bakr and Umar (RA). It is one of the largest mosques in the world, accommodating over one million worshippers.",
+          "icon": "building.fill",
+          "duaTextAr": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ (عند الدخول). اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ (عند السلام على النبي ﷺ). السَّلَامُ عَلَيْكَ يَا رَسُولَ اللَّهِ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ. السَّلَامُ عَلَيْكَ يَا أَبَا بَكْرٍ. السَّلَامُ عَلَيْكَ يَا عُمَرُ",
+          "duaTextEn": "Allahumma iftah li abwaba rahmatik (upon entering). Allahumma salli 'ala Muhammad wa 'ala ali Muhammad (when greeting the Prophet). As-salamu alayka ya Rasulallah wa rahmatullahi wa barakatuh. As-salamu alayka ya Aba Bakr. As-salamu alayka ya Umar.",
+          "tipsAr": [
+            "صلِّ ركعتين تحية المسجد عند الدخول",
+            "الصلاة في المسجد النبوي بألف صلاة فيما سواه إلا المسجد الحرام",
+            "عند السلام على النبي ﷺ قِف بأدب وخفض صوتك",
+            "لا تتمسّح بجدران الحجرة الشريفة ولا تطف بها",
+            "حاول الصلاة في الروضة الشريفة إن تيسّر",
+            "أكثر من الصلاة على النبي ﷺ طوال إقامتك في المدينة"
+          ],
+          "tipsEn": [
+            "Pray two rak'ahs of Tahiyyat al-Masjid upon entering",
+            "A prayer in the Prophet's Mosque equals a thousand prayers elsewhere except the Grand Mosque",
+            "When greeting the Prophet (PBUH), stand respectfully and lower your voice",
+            "Do not touch or wipe the walls of the noble chamber, and do not circumambulate it",
+            "Try to pray in the Rawdah if possible",
+            "Send abundant blessings upon the Prophet (PBUH) throughout your stay in Madinah"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_rawdah",
+          "titleAr": "الروضة الشريفة",
+          "titleEn": "Al-Rawdah al-Sharifah",
+          "descriptionAr": "الروضة الشريفة هي المنطقة الواقعة بين منبر النبي ﷺ وحجرته الشريفة. قال النبي ﷺ: «ما بين بيتي ومنبري روضة من رياض الجنة». تتميّز بسجّادها الأخضر المميّز بينما بقية المسجد بسجّاد أحمر. الصلاة والدعاء فيها لهما فضل عظيم. يُخصَّص لها أوقات للرجال وأوقات للنساء.",
+          "descriptionEn": "Al-Rawdah al-Sharifah is the area between the Prophet's pulpit and his noble chamber. The Prophet (PBUH) said: 'What is between my house and my pulpit is a garden from the gardens of Paradise.' It is distinguished by its green carpet, while the rest of the mosque has red carpet. Prayer and supplication here carry great reward. There are designated times for men and women.",
+          "icon": "sparkles",
+          "duaTextAr": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ. رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَارْزُقْنِي وَعَافِنِي",
+          "duaTextEn": "Allahumma inni as'aluka min fadlika wa rahmatika fa innahu la yamlikuha illa ant. Rabbi ighfir li warhamni wahdini warzuqni wa 'afini.",
+          "tipsAr": [
+            "الروضة مزدحمة جداً — حاول الذهاب في أوقات غير الذروة",
+            "أفضل الأوقات بعد صلاة الفجر أو في الليل المتأخر",
+            "صلِّ ركعتين في الروضة وأكثر من الدعاء",
+            "تحلَّ بالصبر والأدب ولا تُزاحم",
+            "راجع أوقات دخول النساء المخصصة"
+          ],
+          "tipsEn": [
+            "The Rawdah is extremely crowded — try to go during off-peak times",
+            "The best times are after Fajr prayer or late at night",
+            "Pray two rak'ahs in the Rawdah and make abundant dua",
+            "Be patient and courteous and do not push through crowds",
+            "Check the designated entry times for women"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_quba",
+          "titleAr": "مسجد قباء",
+          "titleEn": "Masjid Quba",
+          "descriptionAr": "مسجد قباء هو أول مسجد بُني في الإسلام، أسّسه النبي ﷺ عند وصوله إلى المدينة قبل دخولها. ذكره الله في القرآن: {لَّمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ}. قال النبي ﷺ: «من تطهّر في بيته ثم أتى مسجد قباء فصلّى فيه صلاة كان له كأجر عمرة». يقع جنوب المدينة على بُعد نحو 5 كم من المسجد النبوي.",
+          "descriptionEn": "Masjid Quba is the first mosque ever built in Islam, established by the Prophet (PBUH) upon his arrival near Madinah before entering the city. Allah mentioned it in the Quran: 'A mosque founded on righteousness from the first day is more worthy for you to stand in.' The Prophet (PBUH) said: 'Whoever purifies himself at home then comes to Masjid Quba and prays in it, he will have a reward like Umrah.' It is located about 5 km south of the Prophet's Mosque.",
+          "icon": "building.columns.fill",
+          "duaTextAr": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ (عند الدخول). اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+          "duaTextEn": "Allahumma iftah li abwaba rahmatik (upon entering). Allahumma ij'alni minat-tawwabeen waj'alni minal-mutatahhireen.",
+          "tipsAr": [
+            "توضّأ في بيتك قبل الذهاب لمسجد قباء لتنال أجر عمرة",
+            "يُستحب زيارته يوم السبت اقتداءً بالنبي ﷺ",
+            "صلِّ ركعتين تحية المسجد عند الدخول",
+            "المسجد قريب ويمكن الوصول إليه بالحافلة أو السيارة",
+            "تمّ تجديده وتوسيعه بشكل كبير وهو من أجمل المساجد"
+          ],
+          "tipsEn": [
+            "Perform wudu at your accommodation before going to Masjid Quba to earn the reward of Umrah",
+            "It is recommended to visit on Saturday, following the Prophet's Sunnah",
+            "Pray two rak'ahs of Tahiyyat al-Masjid upon entering",
+            "The mosque is nearby and accessible by bus or car",
+            "It has been beautifully renovated and expanded and is one of the most beautiful mosques"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_qiblatain",
+          "titleAr": "مسجد القبلتين",
+          "titleEn": "Masjid al-Qiblatain",
+          "descriptionAr": "مسجد القبلتين هو المسجد الذي تحوّلت فيه القبلة من بيت المقدس إلى المسجد الحرام أثناء صلاة الظهر. نزل فيه قوله تعالى: {فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ}. سُمّي بمسجد القبلتين لأن المسلمين صلّوا فيه إلى قبلتين في صلاة واحدة. يقع شمال غرب المدينة.",
+          "descriptionEn": "Masjid al-Qiblatain is the mosque where the direction of prayer was changed from Bayt al-Maqdis (Jerusalem) to the Grand Mosque in Makkah during Dhuhr prayer. The verse was revealed here: 'Turn your face toward al-Masjid al-Haram.' It was named the Mosque of the Two Qiblahs because Muslims prayed toward two directions in a single prayer. It is located northwest of Madinah.",
+          "icon": "arrow.triangle.turn.up.right.diamond.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "صلِّ ركعتين تحية المسجد عند زيارته",
+            "المسجد تمّ تجديده وأصبح ذا تصميم حديث جميل",
+            "يمكن الوصول إليه بسهولة من المسجد النبوي",
+            "لا تستغرق الزيارة وقتاً طويلاً",
+            "من المعالم التاريخية المهمة في السيرة النبوية"
+          ],
+          "tipsEn": [
+            "Pray two rak'ahs of Tahiyyat al-Masjid when visiting",
+            "The mosque has been renovated with a beautiful modern design",
+            "Easily accessible from the Prophet's Mosque",
+            "The visit does not take long",
+            "One of the important historical landmarks in the Prophet's biography"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_uhud",
+          "titleAr": "جبل أُحد",
+          "titleEn": "Mount Uhud",
+          "descriptionAr": "جبل أُحد يقع شمال المدينة المنورة على بُعد نحو 5 كم من المسجد النبوي. عنده وقعت غزوة أُحد في السنة الثالثة للهجرة واستُشهد فيها حمزة بن عبد المطلب رضي الله عنه وسبعون من الصحابة. قال النبي ﷺ: «أُحد جبل يحبّنا ونحبّه». عند سفحه مقبرة شهداء أُحد ومسجد الفسح (المصلّى). يبلغ ارتفاعه نحو 1,077 متراً.",
+          "descriptionEn": "Mount Uhud is located about 5 km north of the Prophet's Mosque. The Battle of Uhud took place here in the 3rd year after Hijrah, where Hamzah ibn Abdul-Muttalib (RA) and seventy Companions were martyred. The Prophet (PBUH) said: 'Uhud is a mountain that loves us and we love it.' At its base are the graves of the martyrs of Uhud and a prayer area. It stands approximately 1,077 meters high.",
+          "icon": "mountain.2.fill",
+          "duaTextAr": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ، نَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ (عند زيارة قبور الشهداء)",
+          "duaTextEn": "As-salamu alaykum ahlad-diyari minal-mu'mineena wal-muslimeen, wa inna in sha'Allahu bikum lahiqoon, nas'alullaha lana wa lakumul-'afiyah (when visiting the martyrs' graves).",
+          "tipsAr": [
+            "زُر مقبرة شهداء أُحد وسلّم عليهم وادعُ لهم",
+            "لا تُشرع عبادة مخصوصة عند الجبل",
+            "المنطقة مفتوحة ومشمسة — أحضر مظلة وماءً",
+            "يمكن رؤية موقع المعركة وجبل الرماة القريب",
+            "يُستحب الذهاب وقت لطيف الطقس صباحاً أو مساءً"
+          ],
+          "tipsEn": [
+            "Visit the martyrs' cemetery, greet them, and make dua for them",
+            "No specific worship is prescribed at the mountain",
+            "The area is open and sunny — bring an umbrella and water",
+            "You can see the battle site and the nearby Archers' Hill",
+            "Best to visit in pleasant weather, morning or evening"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_baqi",
+          "titleAr": "مقبرة البقيع",
+          "titleEn": "Al-Baqi Cemetery",
+          "descriptionAr": "مقبرة البقيع (بقيع الغرقد) تقع بجوار المسجد النبوي من الجهة الشرقية. هي أقدس مقبرة في الإسلام بعد مقبرة المعلاة، وفيها دُفن عدد كبير من الصحابة وآل البيت، منهم: عثمان بن عفان رضي الله عنه، والعباس عم النبي ﷺ، والحسن بن علي رضي الله عنهما، وأزواج النبي ﷺ إلا خديجة وميمونة، وابنه إبراهيم. كان النبي ﷺ يزورها ويدعو لأهلها.",
+          "descriptionEn": "Al-Baqi Cemetery (Baqi al-Gharqad) is located next to the Prophet's Mosque on its eastern side. It is the most sacred cemetery in Islam after al-Mualla. Many Companions and members of the Prophet's household are buried here, including: Uthman ibn Affan (RA), al-Abbas the Prophet's uncle, al-Hasan ibn Ali (RA), the Prophet's wives except Khadijah and Maymunah, and his son Ibrahim. The Prophet (PBUH) used to visit it and supplicate for its inhabitants.",
+          "icon": "leaf.fill",
+          "duaTextAr": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ، يَرْحَمُ اللَّهُ الْمُسْتَقْدِمِينَ مِنَّا وَالْمُسْتَأْخِرِينَ، نَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ",
+          "duaTextEn": "As-salamu alaykum ahlad-diyari minal-mu'mineena wal-muslimeen, wa inna in sha'Allahu bikum lahiqoon, yarhamullahul-mustaqdimeena minna wal-musta'khireen, nas'alullaha lana wa lakumul-'afiyah.",
+          "tipsAr": [
+            "يُستحب زيارة البقيع والدعاء لأهله اقتداءً بالنبي ﷺ",
+            "البقيع مفتوح للرجال بعد كل صلاة — تحقق من أوقات الزيارة",
+            "لا تتمسّح بالقبور ولا تدعُ أصحابها",
+            "قِف بخشوع وتأمّل في حال هؤلاء الصالحين",
+            "المقبرة قريبة جداً من المسجد النبوي ويمكن المشي إليها"
+          ],
+          "tipsEn": [
+            "It is recommended to visit al-Baqi and make dua for its inhabitants, following the Prophet's Sunnah",
+            "Al-Baqi is open for men after each prayer — check visiting times",
+            "Do not touch or wipe the graves and do not supplicate to the deceased",
+            "Stand with reverence and reflect upon these righteous people",
+            "The cemetery is very close to the Prophet's Mosque and can be reached on foot"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_ghamama",
+          "titleAr": "مسجد الغمامة",
+          "titleEn": "Masjid al-Ghamama",
+          "descriptionAr": "مسجد الغمامة (مصلّى العيد) يقع جنوب غرب المسجد النبوي على بُعد نحو 500 متر. سُمّي بالغمامة لأنه يُقال إن غمامة ظلّلت النبي ﷺ حين صلّى فيه. كان النبي ﷺ يصلّي فيه صلاة العيد. يتميّز بتصميمه العثماني الجميل وقبابه المتعددة.",
+          "descriptionEn": "Masjid al-Ghamama (the Eid Prayer Ground) is located about 500 meters southwest of the Prophet's Mosque. It was named 'al-Ghamama' (the Cloud) because it is said a cloud shaded the Prophet (PBUH) while he prayed there. The Prophet (PBUH) used to pray the Eid prayer here. It features beautiful Ottoman architecture with multiple domes.",
+          "icon": "cloud.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "صلِّ ركعتين تحية المسجد عند زيارته",
+            "المسجد قريب جداً من المسجد النبوي ويمكن المشي إليه",
+            "تأمّل في عمارته العثمانية الجميلة",
+            "يمكن دمج زيارته مع زيارة المساجد القريبة الأخرى"
+          ],
+          "tipsEn": [
+            "Pray two rak'ahs of Tahiyyat al-Masjid when visiting",
+            "The mosque is very close to the Prophet's Mosque and can be reached on foot",
+            "Admire its beautiful Ottoman architecture",
+            "Can be combined with visits to other nearby mosques"
+          ],
+          "dayNumber": null
+        },
+        {
+          "id": "madinah_seven_mosques",
+          "titleAr": "المساجد السبعة",
+          "titleEn": "The Seven Mosques",
+          "descriptionAr": "المساجد السبعة هي مجموعة مساجد صغيرة تقع شمال غرب المسجد النبوي في منطقة الخندق، حيث وقعت غزوة الأحزاب (الخندق) في السنة الخامسة للهجرة. أبرزها مسجد الفتح (أكبرها وأعلاها، حيث دعا النبي ﷺ على الأحزاب)، ومسجد سلمان الفارسي (الذي أشار بحفر الخندق)، ومسجد أبي بكر الصديق، ومسجد عمر بن الخطاب. هذه المساجد شاهدة على أحداث الغزوة العظيمة.",
+          "descriptionEn": "The Seven Mosques are a group of small mosques located northwest of the Prophet's Mosque in the Khandaq (Trench) area, where the Battle of the Confederates (al-Khandaq) took place in the 5th year after Hijrah. The most prominent are Masjid al-Fath (the largest and highest, where the Prophet (PBUH) supplicated against the confederates), Masjid Salman al-Farisi (who suggested digging the trench), Masjid Abu Bakr al-Siddiq, and Masjid Umar ibn al-Khattab. These mosques witness the events of this great battle.",
+          "icon": "building.2.crop.circle.fill",
+          "duaTextAr": null,
+          "duaTextEn": null,
+          "tipsAr": [
+            "يمكن زيارة جميع المساجد في جولة واحدة لأنها متقاربة",
+            "أهمها مسجد الفتح الذي دعا فيه النبي ﷺ",
+            "المنطقة تُعطي تصوّراً عن موقع غزوة الخندق",
+            "يمكن الوصول بالسيارة أو الحافلة من المسجد النبوي",
+            "لا تستغرق الزيارة وقتاً طويلاً",
+            "صلِّ ركعتين في كل مسجد إن تيسّر"
+          ],
+          "tipsEn": [
+            "All mosques can be visited in a single tour as they are close together",
+            "The most important is Masjid al-Fath where the Prophet (PBUH) supplicated",
+            "The area gives a sense of the Battle of the Trench location",
+            "Accessible by car or bus from the Prophet's Mosque",
+            "The visit does not take long",
+            "Pray two rak'ahs in each mosque if possible"
+          ],
+          "dayNumber": null
+        }
+      ]
+    }
+  ]
+}

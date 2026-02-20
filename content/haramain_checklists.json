@@ -1,0 +1,494 @@
+{
+  "version": "1.0.0",
+  "checklists": [
+    {
+      "id": "ihram_checklist",
+      "titleAr": "قائمة الإحرام",
+      "titleEn": "Ihram Checklist",
+      "icon": "checkmark.shield.fill",
+      "sections": [
+        {
+          "id": "before_ihram",
+          "titleAr": "قبل الإحرام",
+          "titleEn": "Before Ihram",
+          "items": [
+            {
+              "id": "before_ihram_1",
+              "textAr": "تقليم الأظافر",
+              "textEn": "Trim nails",
+              "icon": "hand.raised"
+            },
+            {
+              "id": "before_ihram_2",
+              "textAr": "إزالة شعر الجسم",
+              "textEn": "Remove body hair",
+              "icon": "scissors"
+            },
+            {
+              "id": "before_ihram_3",
+              "textAr": "الاغتسال (غسل الإحرام)",
+              "textEn": "Take a bath (ghusl)",
+              "icon": "drop.fill"
+            },
+            {
+              "id": "before_ihram_4",
+              "textAr": "التطيّب قبل لبس الإحرام",
+              "textEn": "Apply perfume (before wearing ihram)",
+              "icon": "sparkles"
+            },
+            {
+              "id": "before_ihram_5",
+              "textAr": "عقد النية",
+              "textEn": "Make intention (niyyah)",
+              "icon": "heart.fill"
+            }
+          ]
+        },
+        {
+          "id": "ihram_men",
+          "titleAr": "ملابس الإحرام - الرجال",
+          "titleEn": "Ihram Clothing - Men",
+          "items": [
+            {
+              "id": "ihram_men_1",
+              "textAr": "إزار ورداء أبيضان غير مخيطين",
+              "textEn": "Two white unstitched cloths (izar and rida)",
+              "icon": "tshirt"
+            },
+            {
+              "id": "ihram_men_2",
+              "textAr": "نعال تكشف الكعبين",
+              "textEn": "Sandals that expose heels and ankles",
+              "icon": "shoe"
+            },
+            {
+              "id": "ihram_men_3",
+              "textAr": "عدم لبس الملابس الداخلية",
+              "textEn": "No underwear",
+              "icon": "xmark.circle"
+            }
+          ]
+        },
+        {
+          "id": "ihram_women",
+          "titleAr": "ملابس الإحرام - النساء",
+          "titleEn": "Ihram Clothing - Women",
+          "items": [
+            {
+              "id": "ihram_women_1",
+              "textAr": "ملابس فضفاضة محتشمة (أي لون)",
+              "textEn": "Modest loose clothing (any color)",
+              "icon": "tshirt"
+            },
+            {
+              "id": "ihram_women_2",
+              "textAr": "كشف الوجه",
+              "textEn": "Face uncovered",
+              "icon": "face.smiling"
+            },
+            {
+              "id": "ihram_women_3",
+              "textAr": "كشف الكفين",
+              "textEn": "Hands uncovered",
+              "icon": "hand.raised"
+            },
+            {
+              "id": "ihram_women_4",
+              "textAr": "عدم لبس النقاب أثناء الإحرام",
+              "textEn": "No niqab during ihram",
+              "icon": "xmark.circle"
+            }
+          ]
+        },
+        {
+          "id": "ihram_prohibited",
+          "titleAr": "محظورات الإحرام",
+          "titleEn": "Prohibited During Ihram",
+          "items": [
+            {
+              "id": "ihram_prohibited_1",
+              "textAr": "عدم قص الشعر أو تقليم الأظافر",
+              "textEn": "No cutting hair or nails",
+              "icon": "scissors.badge.ellipsis"
+            },
+            {
+              "id": "ihram_prohibited_2",
+              "textAr": "عدم استخدام العطور",
+              "textEn": "No perfume or scented products",
+              "icon": "nosign"
+            },
+            {
+              "id": "ihram_prohibited_3",
+              "textAr": "عدم الجماع",
+              "textEn": "No intimate relations",
+              "icon": "exclamationmark.triangle"
+            },
+            {
+              "id": "ihram_prohibited_4",
+              "textAr": "عدم الصيد",
+              "textEn": "No hunting",
+              "icon": "leaf.arrow.triangle.circlepath"
+            },
+            {
+              "id": "ihram_prohibited_5",
+              "textAr": "عدم تغطية الرأس (للرجال)",
+              "textEn": "No covering the head (men)",
+              "icon": "xmark.circle"
+            },
+            {
+              "id": "ihram_prohibited_6",
+              "textAr": "عدم الجدال والخصام",
+              "textEn": "No arguing or fighting",
+              "icon": "hand.raised.slash"
+            }
+          ]
+        },
+        {
+          "id": "ihram_permitted",
+          "titleAr": "المباحات أثناء الإحرام",
+          "titleEn": "Permitted During Ihram",
+          "items": [
+            {
+              "id": "ihram_permitted_1",
+              "textAr": "الاغتسال والاستحمام",
+              "textEn": "Bathing and showering",
+              "icon": "shower.fill"
+            },
+            {
+              "id": "ihram_permitted_2",
+              "textAr": "تبديل ملابس الإحرام",
+              "textEn": "Changing ihram garments",
+              "icon": "arrow.triangle.2.circlepath"
+            },
+            {
+              "id": "ihram_permitted_3",
+              "textAr": "استخدام صابون بدون رائحة",
+              "textEn": "Using unscented soap",
+              "icon": "hands.and.sparkles"
+            },
+            {
+              "id": "ihram_permitted_4",
+              "textAr": "حمل مظلة للتظليل",
+              "textEn": "Carrying umbrella for shade",
+              "icon": "umbrella.fill"
+            },
+            {
+              "id": "ihram_permitted_5",
+              "textAr": "لبس حزام أو حقيبة نقود",
+              "textEn": "Wearing belt or money pouch",
+              "icon": "banknote"
+            },
+            {
+              "id": "ihram_permitted_6",
+              "textAr": "لبس النظارات والساعة",
+              "textEn": "Wearing glasses and watch",
+              "icon": "eyeglasses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "packing_list",
+      "titleAr": "قائمة الحقيبة",
+      "titleEn": "Packing List",
+      "icon": "suitcase.fill",
+      "sections": [
+        {
+          "id": "documents",
+          "titleAr": "الوثائق والمستندات",
+          "titleEn": "Documents",
+          "items": [
+            {
+              "id": "documents_1",
+              "textAr": "جواز السفر",
+              "textEn": "Passport",
+              "icon": "doc.text"
+            },
+            {
+              "id": "documents_2",
+              "textAr": "التأشيرة",
+              "textEn": "Visa",
+              "icon": "doc.text"
+            },
+            {
+              "id": "documents_3",
+              "textAr": "شهادة التطعيم",
+              "textEn": "Vaccination certificate",
+              "icon": "cross.case"
+            },
+            {
+              "id": "documents_4",
+              "textAr": "حجز الفندق",
+              "textEn": "Hotel booking confirmation",
+              "icon": "building.2"
+            },
+            {
+              "id": "documents_5",
+              "textAr": "تذاكر الطيران",
+              "textEn": "Flight tickets",
+              "icon": "airplane"
+            },
+            {
+              "id": "documents_6",
+              "textAr": "نسخ من بطاقة الهوية",
+              "textEn": "ID card copies",
+              "icon": "person.text.rectangle"
+            },
+            {
+              "id": "documents_7",
+              "textAr": "أرقام الطوارئ",
+              "textEn": "Emergency contacts list",
+              "icon": "phone.fill"
+            },
+            {
+              "id": "documents_8",
+              "textAr": "تأمين السفر",
+              "textEn": "Travel insurance",
+              "icon": "shield.checkered"
+            }
+          ]
+        },
+        {
+          "id": "clothing",
+          "titleAr": "الملابس",
+          "titleEn": "Clothing",
+          "items": [
+            {
+              "id": "clothing_1",
+              "textAr": "ملابس الإحرام (للرجال)",
+              "textEn": "Ihram garments (men)",
+              "icon": "tshirt"
+            },
+            {
+              "id": "clothing_2",
+              "textAr": "حذاء مريح للمشي",
+              "textEn": "Comfortable walking shoes",
+              "icon": "shoe"
+            },
+            {
+              "id": "clothing_3",
+              "textAr": "صندل / شبشب",
+              "textEn": "Sandals / flip-flops",
+              "icon": "shoe"
+            },
+            {
+              "id": "clothing_4",
+              "textAr": "جوارب",
+              "textEn": "Socks",
+              "icon": null
+            },
+            {
+              "id": "clothing_5",
+              "textAr": "ملابس قطنية خفيفة",
+              "textEn": "Light cotton clothes",
+              "icon": "tshirt"
+            },
+            {
+              "id": "clothing_6",
+              "textAr": "قبعة شمسية (خارج الإحرام)",
+              "textEn": "Sun hat (outside ihram)",
+              "icon": "sun.max"
+            },
+            {
+              "id": "clothing_7",
+              "textAr": "جاكيت خفيف",
+              "textEn": "Thin jacket",
+              "icon": "tshirt"
+            }
+          ]
+        },
+        {
+          "id": "toiletries",
+          "titleAr": "أدوات النظافة الشخصية",
+          "titleEn": "Toiletries",
+          "items": [
+            {
+              "id": "toiletries_1",
+              "textAr": "صابون بدون رائحة",
+              "textEn": "Unscented soap",
+              "icon": "hands.and.sparkles"
+            },
+            {
+              "id": "toiletries_2",
+              "textAr": "شامبو بدون رائحة",
+              "textEn": "Unscented shampoo",
+              "icon": "drop.fill"
+            },
+            {
+              "id": "toiletries_3",
+              "textAr": "فرشاة ومعجون أسنان",
+              "textEn": "Toothbrush and toothpaste",
+              "icon": null
+            },
+            {
+              "id": "toiletries_4",
+              "textAr": "واقي شمس بدون رائحة",
+              "textEn": "Sunscreen (unscented)",
+              "icon": "sun.max.trianglebadge.exclamationmark"
+            },
+            {
+              "id": "toiletries_5",
+              "textAr": "مرطب شفاه",
+              "textEn": "Lip balm",
+              "icon": null
+            },
+            {
+              "id": "toiletries_6",
+              "textAr": "منشفة",
+              "textEn": "Towel",
+              "icon": null
+            },
+            {
+              "id": "toiletries_7",
+              "textAr": "مناديل ورقية",
+              "textEn": "Tissues",
+              "icon": null
+            }
+          ]
+        },
+        {
+          "id": "medications",
+          "titleAr": "الأدوية والإسعافات",
+          "titleEn": "Medications",
+          "items": [
+            {
+              "id": "medications_1",
+              "textAr": "الأدوية الشخصية الموصوفة",
+              "textEn": "Personal prescriptions",
+              "icon": "pills"
+            },
+            {
+              "id": "medications_2",
+              "textAr": "مسكن للألم",
+              "textEn": "Pain reliever",
+              "icon": "pills"
+            },
+            {
+              "id": "medications_3",
+              "textAr": "دواء مضاد للإسهال",
+              "textEn": "Anti-diarrhea medicine",
+              "icon": "pills"
+            },
+            {
+              "id": "medications_4",
+              "textAr": "مضاد للحموضة",
+              "textEn": "Antacid",
+              "icon": "pills"
+            },
+            {
+              "id": "medications_5",
+              "textAr": "لاصقات جروح وضمادات",
+              "textEn": "Bandages and adhesive strips",
+              "icon": "bandage"
+            },
+            {
+              "id": "medications_6",
+              "textAr": "أكياس أملاح معالجة الجفاف",
+              "textEn": "Electrolyte / rehydration packets",
+              "icon": "cross.vial"
+            },
+            {
+              "id": "medications_7",
+              "textAr": "كمامة طبية",
+              "textEn": "Face mask",
+              "icon": "facemask"
+            }
+          ]
+        },
+        {
+          "id": "electronics",
+          "titleAr": "الإلكترونيات",
+          "titleEn": "Electronics",
+          "items": [
+            {
+              "id": "electronics_1",
+              "textAr": "الجوال وشاحنه",
+              "textEn": "Phone and charger",
+              "icon": "iphone"
+            },
+            {
+              "id": "electronics_2",
+              "textAr": "بطارية متنقلة (باور بانك)",
+              "textEn": "Power bank",
+              "icon": "battery.100.bolt"
+            },
+            {
+              "id": "electronics_3",
+              "textAr": "محول كهربائي عالمي",
+              "textEn": "Universal power adapter",
+              "icon": "powerplug"
+            },
+            {
+              "id": "electronics_4",
+              "textAr": "كشاف صغير",
+              "textEn": "Small flashlight",
+              "icon": "flashlight.on.fill"
+            },
+            {
+              "id": "electronics_5",
+              "textAr": "سماعات أذن",
+              "textEn": "Earphones",
+              "icon": "earbuds"
+            }
+          ]
+        },
+        {
+          "id": "essentials",
+          "titleAr": "الأساسيات",
+          "titleEn": "Essentials",
+          "items": [
+            {
+              "id": "essentials_1",
+              "textAr": "سجادة صلاة",
+              "textEn": "Prayer mat",
+              "icon": "rectangle.portrait"
+            },
+            {
+              "id": "essentials_2",
+              "textAr": "مصحف صغير",
+              "textEn": "Small Quran",
+              "icon": "book.fill"
+            },
+            {
+              "id": "essentials_3",
+              "textAr": "كتاب أدعية",
+              "textEn": "Dua book",
+              "icon": "text.book.closed"
+            },
+            {
+              "id": "essentials_4",
+              "textAr": "زجاجة ماء",
+              "textEn": "Water bottle",
+              "icon": "waterbottle"
+            },
+            {
+              "id": "essentials_5",
+              "textAr": "حقيبة ظهر صغيرة",
+              "textEn": "Small backpack",
+              "icon": "backpack"
+            },
+            {
+              "id": "essentials_6",
+              "textAr": "حزام نقود",
+              "textEn": "Money belt",
+              "icon": "banknote"
+            },
+            {
+              "id": "essentials_7",
+              "textAr": "وجبات خفيفة",
+              "textEn": "Snacks",
+              "icon": "takeoutbag.and.cup.and.straw"
+            },
+            {
+              "id": "essentials_8",
+              "textAr": "أكياس بلاستيكية",
+              "textEn": "Plastic bags",
+              "icon": "bag"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
