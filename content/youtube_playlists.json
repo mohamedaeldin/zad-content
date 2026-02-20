@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.5.0",
+  "contentVersion": "1.6.0",
   "lastUpdated": "2026-02-20T00:00:00Z",
   "items": [
     {
@@ -1152,7 +1152,7 @@
         }
       ],
       "enabled": true,
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "mustafa_hosny",
@@ -2886,6 +2886,19 @@
       ],
       "enabled": true,
       "sortOrder": 9
+    },
+    {
+      "id": "qatayef_sameh_hussein",
+      "nameAr": "برنامج قطايف - سامح حسين",
+      "nameEn": "Qatayef - Sameh Hussein",
+      "imageAsset": "owner_qatayef_sameh_hussein",
+      "imageURL": "https://yt3.googleusercontent.com/ytc/AIdro_m1JZbjXPqay0NZYvuITWWaY70KweD6Gqq5s4lJzWoO_54=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PLS4AHyAvpjOqVlkpVY4h_ETN7tGYIlLAQ", "firstVideoId": "GYoOOsgN5LA" },
+        { "playlistId": "PLS4AHyAvpjOqGvettQknW0Vudi7PIFj_Q", "firstVideoId": "3SXzoOi45oU" }
+      ],
+      "enabled": true,
+      "sortOrder": 10
     }
   ]
 }
