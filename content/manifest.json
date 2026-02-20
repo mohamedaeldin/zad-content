@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.3.0",
-  "lastUpdated": "2026-02-19T00:00:00Z",
+  "contentVersion": "1.4.0",
+  "lastUpdated": "2026-02-20T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/mohamedaeldin/tatmaen-content/main",
   "minimumAppVersion": "1.0.0",
 
@@ -131,7 +131,7 @@
       "file": "content/athkar_categories.json",
       "type": "metadata",
       "sizeCategory": "metadata",
-      "description": "Athkar categories from Hisn al-Muslim (43 categories, multilingual)",
+      "description": "Athkar categories from Hisn al-Muslim (80 categories, multilingual)",
       "enabled": true,
       "lifecycle": "active",
       "sortOrder": 11,
@@ -143,7 +143,7 @@
       "file": "content/athkar_adhkar.json",
       "type": "metadata",
       "sizeCategory": "standard",
-      "description": "All adhkar content from Hisn al-Muslim (multilingual, benefits, references)",
+      "description": "All adhkar content from Hisn al-Muslim (343 adhkar, multilingual, benefits, references)",
       "enabled": true,
       "lifecycle": "active",
       "sortOrder": 12,
