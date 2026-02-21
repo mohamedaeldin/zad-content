@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.5.0",
+  "contentVersion": "1.6.0",
   "lastUpdated": "2026-02-21T00:00:00Z",
   "items": [
     {
@@ -79,6 +79,19 @@
       ],
       "enabled": true,
       "sortOrder": 2
+    },
+    {
+      "id": "jannah_institute",
+      "nameAr": "معهد جنة - د. هيفاء يونس",
+      "nameEn": "Jannah Institute - Dr. Haifaa Younis",
+      "imageAsset": "owner_jannah_institute",
+      "imageURL": "https://yt3.ggpht.com/R2rUBQpDc26YlyGkVnKANT0kyWsIyK9El426hMVIEOQ7b7UoKTumjMVrRLGS-RJRdp1vkG7rpg=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        { "playlistId": "PL1ABUur57Rl6HqtiLhDQzTOvzS3BqLeHc", "firstVideoId": "7KmAUhp9100" },
+        { "playlistId": "PL1ABUur57Rl5qPZjTBceARzmoV3VOnnMx", "firstVideoId": "IkRa1nG264w" }
+      ],
+      "enabled": true,
+      "sortOrder": 4
     }
   ]
 }
