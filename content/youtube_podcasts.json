@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.6.0",
+  "contentVersion": "1.7.0",
   "lastUpdated": "2026-02-21T00:00:00Z",
   "items": [
     {
@@ -87,11 +87,51 @@
       "imageAsset": "owner_jannah_institute",
       "imageURL": "https://yt3.ggpht.com/R2rUBQpDc26YlyGkVnKANT0kyWsIyK9El426hMVIEOQ7b7UoKTumjMVrRLGS-RJRdp1vkG7rpg=s800-c-k-c0x00ffffff-no-rj",
       "playlists": [
-        { "playlistId": "PL1ABUur57Rl6HqtiLhDQzTOvzS3BqLeHc", "firstVideoId": "7KmAUhp9100" },
-        { "playlistId": "PL1ABUur57Rl5qPZjTBceARzmoV3VOnnMx", "firstVideoId": "IkRa1nG264w" }
+        {
+          "playlistId": "PL1ABUur57Rl6HqtiLhDQzTOvzS3BqLeHc",
+          "firstVideoId": "7KmAUhp9100"
+        },
+        {
+          "playlistId": "PL1ABUur57Rl5qPZjTBceARzmoV3VOnnMx",
+          "firstVideoId": "IkRa1nG264w"
+        }
       ],
       "enabled": true,
       "sortOrder": 4
+    },
+    {
+      "id": "athar",
+      "nameAr": "أثر",
+      "nameEn": "Athar",
+      "imageAsset": "owner_athar",
+      "imageURL": "https://yt3.ggpht.com/2jq2EN8RIK8MU7vnc_dGM0PiL6gdXbTD7DgENnEerbONTbA8qFeZhmkX_FR8BjAn0lbdNF_0rA=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        {
+          "playlistId": "PLpIUgC-LPeycxuND11wGikcYhHQPgJ0x6",
+          "firstVideoId": "6JL1Ks7CziA"
+        },
+        {
+          "playlistId": "PLpIUgC-LPeydT5ZeRxMgcpq4TR1dKIwHx",
+          "firstVideoId": "tkEicAZQo0Q"
+        }
+      ],
+      "enabled": true,
+      "sortOrder": 5
+    },
+    {
+      "id": "alghafri",
+      "nameAr": "الغافري",
+      "nameEn": "AlGhafri",
+      "imageAsset": "owner_alghafri",
+      "imageURL": "https://yt3.ggpht.com/lx7AH0ki6wYatYQscEwg_uJYq4kZ-_SVAcF-eN-iaKQTknNlRbbCMeGE_85MZ3uHG3de3F-btw=s800-c-k-c0x00ffffff-no-rj",
+      "playlists": [
+        {
+          "playlistId": "PLp0HPxdzjjMhcFyOYQ6dvn7fkxiFnuQCg",
+          "firstVideoId": "5qzKaozM8ks"
+        }
+      ],
+      "enabled": true,
+      "sortOrder": 6
     }
   ]
 }
